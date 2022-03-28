@@ -16,4 +16,4 @@ CRUD App. Uma lista de compras onde é possível adicionar, editar e remover um 
 
 ## Demo
 
-https://colorgen-app.netlify.app/
+https://groceries-app-1.netlify.app/
