@@ -13,7 +13,3 @@ CRUD App. Uma lista de compras onde é possível adicionar, editar e remover um 
 3) npm install || yarn install;
 4) npm start || yarn start;
 5) Abrir [http://localhost:3000](http://localhost:3000) no browser.
-
-## Demo
-
-https://groceries-app-1.netlify.app/
